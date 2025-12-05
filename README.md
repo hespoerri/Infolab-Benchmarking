@@ -4,4 +4,5 @@ This Program was written to complete an exercise at Unitersity. It is tuned for 
 
 ### How to run
 gcc main.c benchmark.c benchmark.h
+
 ./a.out Simulation.jar my.name@stud.unibas.ch
