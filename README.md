@@ -3,6 +3,5 @@
 This Program was written to complete an exercise at Unitersity. It is tuned for the specs of this exercise.
 
 ### How to run
-./benchmark Simulation.jar <my.name@stud.unibas.ch>
-
-### Documentation
+gcc main.c benchmark.c benchmark.h
+./a.out Simulation.jar my.name@stud.unibas.ch
